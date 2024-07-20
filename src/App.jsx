@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+    <h1>Dashboard</h1>
     <UseStatehook />
     <UseRefHook />
     <UseMemoHook />
